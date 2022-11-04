@@ -1,0 +1,3 @@
+TEST: !python -W ignore test_UV.py
+
+MAIN PROG: !python -W ignore main_UV.py
